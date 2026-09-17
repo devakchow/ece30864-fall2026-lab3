@@ -9,3 +9,21 @@ Pros of Agile:
 Cons of Agile: 
 - Scope creep risk: Because requirements are constantly evolving and flexible, projects can easily expand beyond their original boundaries if not strictly managed.
 - Less predictable timelines: The lack of a fixed, long-term blueprint makes it difficult to predict the exact final completion date and total cost from the very beginning.
+
+Q2. Explain the role and responsibilities of the Scrum Master vs the Product Owner. 
+
+Ans. 
+
+The Product Owner decides what to build to maximize business value, while the Scrum Master optimizes how the team delivers by removing obstacles and coaching Agile practices.
+
+Product Owner's Core Responsibilities: 
+- Product Vision: Defines the long-term goals and the product roadmap.
+- Backlog Management: Creates, prioritizes, and refines user stories.
+- Stakeholder Communication: Bridges the gap between business needs and the development team.
+- Acceptance Criteria: Sets clear quality standards and reviews completed work.
+
+Scrum Master's Core Responsibilities: 
+- Removing Impediments: Clears daily blockers that slow the team down.
+- Process Facilitation: Leads Scrum events like daily standups, planning, and retrospectives.
+- Agile Coaching: Teaches self-management and continuous improvement.
+- Protecting the Team: Shields developers from outside distractions and scope creep.
