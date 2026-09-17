@@ -27,3 +27,20 @@ Scrum Master's Core Responsibilities:
 - Process Facilitation: Leads Scrum events like daily standups, planning, and retrospectives.
 - Agile Coaching: Teaches self-management and continuous improvement.
 - Protecting the Team: Shields developers from outside distractions and scope creep.
+
+Q3. What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings. 
+
+Ans. 
+
+1. Sprint Planning Meeting
+- The team and the product owner discuss and define the main objective or business value the sprint should achieve. 
+- The team picks specific tasks and user stories from the product backlog to move into the sprint backlog based on their capacity. 
+
+2. Daily Stand-up (Daily Scrum) 
+- Team members share what work was completed since the last meeting toward the sprint goal.
+- Participants identify any obstacles or roadblocks getting in the way of their work so the team can help resolve them. 
+
+3. Sprint Review Meeting
+- The team showcases the new features, product increments, or bug fixes they built during the sprint.
+- Stakeholders and product owners review the output, discuss what was delivered, and provide input that will shape the next steps.
+
