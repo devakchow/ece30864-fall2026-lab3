@@ -44,3 +44,28 @@ Ans.
 - The team showcases the new features, product increments, or bug fixes they built during the sprint.
 - Stakeholders and product owners review the output, discuss what was delivered, and provide input that will shape the next steps.
 
+Q4. Differentiate between Epic, Story, Bug, and Task issue types in JIRA. 
+
+Ans. 
+
+In Jira, Epic, Story, Bug, and Task are standard issue types used to categorize, organize, and track different levels and kinds of work.
+
+1. Epic 
+- Epic is a large body of work that spans multiple sprints and can be broken down into smaller issues.
+- It represents a major initiative, strategic goal, or large feature release.
+- Scope is tied as long-term (weeks to months), containing a collection of related stories and tasks.
+
+2. Story 
+- As Story is a feature or requirement expressed from the end-user's perspective. 
+- It delivers direct, tangible value to the product's user or customer. 
+- Scope is tied as short-term, designed to be completed within a single sprint.
+
+3. Bug
+- A Bug represents a flaw, defect, or unexpected behavior in the system.
+- It tracks something that is broken and needs to be fixed to match expected functionality.
+- Scoped is tied as varying depending on severity, but usually prioritized for immediate or near-term sprints.
+
+4. Task 
+- A Task is a generic piece of work that needs to be done, often technical or operational. 
+- It handles background, administrative, or engineering work that does not necessarily deliver direct user-facing features on its own.
+- Scope is tied as short-term, typically planned for a single sprint.
